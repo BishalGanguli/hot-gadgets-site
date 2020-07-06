@@ -1,0 +1,30 @@
+.container {
+    margin-bottom: 100px;
+}
+.product-details {
+    padding-right: 150px;
+}
+.buy-now-button {
+    background-color: black;
+    border-style: none;
+    color: white;
+    
+    padding: 8px 20px ;
+    border-radius: 10px;
+}
+p {
+    color: rgb(90, 83, 83);
+}
+.card {
+
+    margin: 20px 20px 0px 20px ;
+    padding: 30px 0px 0px 0px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.card-footer {
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
