@@ -28,3 +28,39 @@ p {
     background-color: rgb(255, 255, 255);
     border: none;
 }
+.pale-order-image img {
+    margin-left: 70px;
+    width: 100% ;
+}
+.bags , .beauty , .shoes {
+    border: none ;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h5 {
+    margin-top: 10px;
+}
+h2 {
+    margin-bottom: 100px;
+}
+.background-submit {
+    background-color: black;
+    color: white;
+}
+#contact {
+    height: 300px;
+}
+.submit-button { 
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    color: rgb(0, 0, 0);
+    border: 3px solid black;
+    padding: 8px 20px ;
+    border-radius: 10px;
+
+}
+footer {
+    text-align: center;
+}
